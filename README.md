@@ -1,6 +1,14 @@
 # 🚀 Real-Time WebSocket Chat Application
 ### DevOps Engineering Assignment
 
+# 🌍 Live Deployment
+
+Application URL
+
+```
+http://3.111.236.54/
+```
+
 ## 📌 Project Overview
 
 This project demonstrates the deployment of a containerized Real-Time WebSocket Chat Application using Docker, Docker Compose, Nginx Reverse Proxy, GitHub Actions CI/CD, and AWS EC2.
