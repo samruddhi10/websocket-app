@@ -175,7 +175,7 @@ docker compose up -d --build
 Application URL:
 
 ```
-http://<EC2_PUBLIC_IP>
+http://3.111.236.54/
 ```
 
 ---
